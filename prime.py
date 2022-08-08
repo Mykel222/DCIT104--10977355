@@ -1,3 +1,4 @@
+#I plegde this assignment was done by myself
 num=int(input("Enter a number: "))
 print(" ")
 print(f"Prime numbers below {num} are")
